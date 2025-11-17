@@ -55,8 +55,7 @@ class Curso {
         return String.format("Curso[codigo=%s, nombre=%s]", codigo, nombre);
     }
 
-    String getCodigo() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+    
+ 
 } 
 
